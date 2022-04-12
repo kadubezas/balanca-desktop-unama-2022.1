@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="balanca_desktop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/balanca_desktop_jar</output-path>
+    <root id="archive" name="balanca_desktop.jar">
+      <element id="module-output" name="balanca_desktop" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../libs/slf4j-simple-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../libs/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../libs/jssc-2.9.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

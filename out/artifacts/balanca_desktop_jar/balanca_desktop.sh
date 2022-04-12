@@ -1,0 +1,1 @@
+java -jar balanca_desktop.jar
